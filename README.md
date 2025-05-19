@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elfriedtheinventor98
-- 👀 I’m interested in building any type of apps and arduino devices...
-- 📫 How to reach me : mail: dossouelfried@gmail.com
--                              Linkedin: www.linkedin.com/in/elfried-dossou-b4571119b.
+- 👋 Hi, I’m Elfried
+- I'm Computer Engineer
+- 👀 I’m interested in building Apps and Electronics devices...
+- 📫 How to reach me by mail: dossouelfried@gmail.com
